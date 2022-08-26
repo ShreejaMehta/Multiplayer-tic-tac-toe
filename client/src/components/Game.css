@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+table td {
+    border : 1px solid #000;
+    width : 100px;
+    height : 100px;
+    text-align: center;
+}
